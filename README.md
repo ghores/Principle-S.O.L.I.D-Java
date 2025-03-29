@@ -9,7 +9,7 @@ This repository demonstrates the **SOLID** principles with simple examples in Ja
 4. **Interface Segregation Principle (ISP)** - Interfaces should be specific rather than general.
 5. **Dependency Inversion Principle (DIP)** - High-level modules should not depend on low-level modules.
 
-### **About**  
+### **Explanation:**  
 
 This repository provides a simple implementation of **SOLID** principles in **Java**. SOLID consists of five design principles that help in developing **scalable, readable, and flexible** software.  
 
@@ -26,5 +26,6 @@ Compile and run the Java code to see the output for each principle. For more det
 
 🚀 **If you found this project useful, don’t forget to give it a ⭐️!**  
 
-## Author
+
+## Author:
 Amin Ghazimoradi(Ghores😜)
